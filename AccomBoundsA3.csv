@@ -1,0 +1,16 @@
+Category,Couple,Kid minimum,Income threshold,Cutout Weekly,Cutout Yearly,Maximum
+"Single, 16+ years",0,0,$384.00,$644.00,"$33,488.00",$65.00
+"Married, civil union or de facto couple (without children)",1,0,$586.00,$886.00,"$46,072.00",$75.00
+"Married, civil union or de facto couple, 1+ children",1,1,$622.00,"$1,102.00","$57,304.00",$120.00
+"Sole parent, 1 child",0,1,$551.00,$851.00,"$44,252.00",$75.00
+"Sole parent, 2+ children",0,2,$551.00,"$1,031.00","$53,612.00",$120.00
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
