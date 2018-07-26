@@ -13,7 +13,7 @@ This is the most important graph:
 * Talk about issue of phase out - no taxes being paid, but not all income is coming in!
 * Compare with below
 
-![Figure 2](INSERT)
+![Figure 2](https://github.com/harryelworthy/Labour-Welfare-Work/blob/master/Take%20Home%20Income%2C%20Two%20Child%20Family%20Both%20Working%20for%20Median%20Income%2C%20with%20Accom%20Supplement.png)
 
 * Describe Accom supplement - well meaning, essentially direct transfer to the poor and in need of housing payments. Some ineffiency encouraging people to move to expensive places, but close to what you could consider optimal
 * Can see that, while well meaning, increases the effective tax on earners!
