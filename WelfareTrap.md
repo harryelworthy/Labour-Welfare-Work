@@ -8,6 +8,7 @@ Before I arrived, I put together some graphs on the (then) current welfare syste
 This is the most important graph:
 
 ![Figure 1](https://github.com/harryelworthy/Labour-Welfare-Work/blob/master/Take%20Home%20Income%2C%20Two%20Child%20Family%20Both%20Working%20for%20Median%20Income.png)
+<<<<<<< HEAD
 
 * Talk about issue of minimum payment for 20 hour workers
 * Talk about issue of phase out - no taxes being paid, but not all income is coming in!
@@ -26,3 +27,5 @@ This is the most important graph:
 * Other thing interesting - how hard it is to work out e.g. EMTR. No calculator, very tough to work out exactly how much benefit a given person will get, going through multiple agencies etc. The idea is that for a real person doing it, they go to WINZ and get told how much they will get
 * The idea is that if people saw that they would earn barely anything for working 5 hours more, they wouldn't work more, and this would do bad things to productivity/etc (?)
 * Something sour about policy designed to be opaque 'for the good of the people'
+=======
+>>>>>>> 2eb64e17c0bd1b62f64f4bf1da97171b40e316b1
