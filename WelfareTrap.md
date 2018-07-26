@@ -7,4 +7,4 @@ Before I arrived, I put together some graphs on the (then) current welfare syste
 
 This is the most important graph:
 
-![Figure 1](Take Home Income, Two Child Family Both Working for Median Income.png)
+![Figure 1](https://github.com/harryelworthy/Labour-Welfare-Work/blob/master/Take%20Home%20Income%2C%20Two%20Child%20Family%20Both%20Working%20for%20Median%20Income.png)
