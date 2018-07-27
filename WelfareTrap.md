@@ -35,7 +35,7 @@ These traps happen in every country. They are hard to avoid, and in some cases c
 
 
 
-Other topics that I could touch on:
+Other topics to touch on in future posts:
 * How labour monopsony/frictions mean that very few workers actually choose their hours, and how that makes the income variability of kinks worse
 * How the policies are designed to be opaque, how this makes the policies work better but also rougher on low income people. No calculator, very tough to work out exactly how much benefit a given person will get, going through multiple agencies etc. The idea is that for a real person doing it, they go to WINZ and get told how much they will get. There is something sour about policy designed to be opaque 'for the good of the people'
 * The tradeoff a government makes when costing these policies between giving a shallow (and forgiving) phase-out steepness and making a cheap policy. Rich people on benefits are expensive! 
